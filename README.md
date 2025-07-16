@@ -26,7 +26,7 @@ Our company operates across multiple global regions to serve a wide customer bas
 
 + **APAC** – Asia-Pacific
 
-## Organizational Divisions
+### Organizational Divisions
 We are structured into three main **divisions**, each focusing on specific product lines:
 
 1. **N & S (Networking & Storage)**
@@ -51,8 +51,10 @@ We are structured into three main **divisions**, each focusing on specific produ
 
     Notebook
 
-## Product Categories
+### Product Categories
 Each segment contains various product categories, tailored to meet the needs of customers across different markets and use cases.
+
+## 10 Ad-hoc request, Query & Result, Insights, and Visualization
 
 
 
