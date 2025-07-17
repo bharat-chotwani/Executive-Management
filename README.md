@@ -55,6 +55,6 @@ We are structured into three main **divisions**, each focusing on specific produ
 Each segment contains various product categories, tailored to meet the needs of customers across different markets and use cases.
 
 ## 10 Ad-hoc request, Query & Result, Insights, and Visualization
-
+You can find the all the 10 Ad-hoc request with visualization in the [PDF](https://github.com/bharat-chotwani/Executive-Management/blob/ab915f8ab8b475990e2c6b607cd8e32c171607c9/RCP-4%20Presentation.pdf).
 
 
